@@ -14,3 +14,10 @@ Con las teclas de avanzar y retroceder mario se mueve hacia enfrente y atras, co
 
 # Objetivo
 Hacer una animación contralada por el usuario.
+
+# Materia GRAFICACIÓN
+
+# Catedrático: CESAR EDUARDO CONTRERAS DELGADO
+
+# Alumno:
+Natanael Gonzalez Crispin 23050022
